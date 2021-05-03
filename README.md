@@ -9,7 +9,7 @@ sentence_enders = set(['.', '?', '!', ';'])
 ```
 Feel free to modify it.
 
-2. Download Sentiment.py, train.txt, test.txt to the same file
+2. Download Sentiment.py, train.txt, test.txt to the same directory
 3. Go to terminal -> go to the directory where those 3 files reside.
 4. Run command:
 ```
